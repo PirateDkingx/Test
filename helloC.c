@@ -3,4 +3,6 @@
 void main(){
     printf("Hello_C++");
     printf("newchange");
+    print("yes_sir");
+
 }
